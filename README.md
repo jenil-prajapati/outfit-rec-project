@@ -1,10 +1,10 @@
 # Fitted
 
 ## Description
-Our web app will allow users to store clothes from their wardrobe and then recommend outfit for the day.
+The web app will allow users to store clothes from their wardrobe and then recommend outfit for the day.
 
 ## More Details
-Our ideal users are people in all age ranges that struggle with picking an outfit for the day. Maybe 15-25yr olds.  
+The ideal users are people in all age ranges that struggle with picking an outfit for the day. Maybe 15-25yr olds.  
 
 **User roles -** just a regular user that has their own wardrobe and suggestions based on that  
 
@@ -78,3 +78,5 @@ Push to the branch: `git push origin my-new-feature`
 
 Submit a pull request :D
 
+
+This was a group project at my university where I lead to achieve these results, please try it out & let me know! 
