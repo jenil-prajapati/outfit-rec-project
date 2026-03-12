@@ -78,5 +78,6 @@ Push to the branch: `git push origin my-new-feature`
 
 Submit a pull request :D
 
+# Explicit Mention
+This was a group project at my university where I lead to achieve these results, please try it out & let me know, so we can improve it to its maximum depth! 
 
-This was a group project at my university where I lead to achieve these results, please try it out & let me know! 
